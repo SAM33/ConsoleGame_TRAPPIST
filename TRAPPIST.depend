@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1490899054 source:c:\users\shuosan\desktop\trappist\main.cpp
+	<iostream>
+	"map.h"
+	"mapObject.h"
+	"cityObject.h"
+
+1490898821 c:\users\shuosan\desktop\trappist\include\map.h
+	"mapObject.h"
+	"gameExpansion.h"
+
+1490899118 c:\users\shuosan\desktop\trappist\include\mapobject.h
+	<iostream>
+	<string>
+	"mvc.h"
+	"gameExpansion.h"
+
+1490897397 c:\users\shuosan\desktop\trappist\include\cityobject.h
+	"mapObject.h"
+
+1490898539 source:c:\users\shuosan\desktop\trappist\src\cityobject.cpp
+	"cityObject.h"
+
+1490898962 source:c:\users\shuosan\desktop\trappist\src\map.cpp
+	"map.h"
+	"cityObject.h"
+	"mapObject.h"
+
+1490898384 c:\users\shuosan\desktop\trappist\include\mvc.h
+	<iostream>
+	<string>
+	<sstream>
+
+1490899130 source:c:\users\shuosan\desktop\trappist\src\mapobject.cpp
+	"mapObject.h"
+
+1490898658 c:\users\shuosan\desktop\trappist\include\gameexpansion.h
+
