@@ -4,7 +4,8 @@ This planetary system have multiple planet suitable for living and it is relativ
 As time passes by, your civilization will know "We are not along in this planetary system".  <br>
 In addition to get along with others civilizations in the planet your civilization belongs, <br>
 you should pay attention to the alien civilization very close to your civilization.  <br>
-
+<br>
+--------------------------------------------------<br>
 Map :
 Map object reprent a map span the entire plaent. <br>
 The player can build citys, land units on land of the map. <br>
